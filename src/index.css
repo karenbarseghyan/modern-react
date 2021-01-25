@@ -32,3 +32,8 @@
   margin: 40px auto;
   padding: 20px;
 }
+
+.blog-list  h2{
+  color: blue;
+  font-size: xx-large;
+}
